@@ -7,11 +7,12 @@ Reference:
 https://en.wikipedia.org/wiki/Rock_paper_scissors
 
 Requirement for run as excutable file or .exe file or application :
-1. add Python to PATH variable in Windows
+1. Download latest python and install it
+2. add Python to PATH variable in Windows
    Please follow the liks below: 
    https://datatofish.com/add-python-to-windows-path/
    https://docs.python.org/3/using/windows.html
-2. Download the whole project 
-3. Go to " dist " folder
-4. Run the Application file
-5. May need to install Visual C++ Redistributable   
+3. Download the whole project 
+4. Go to " dist " folder
+5. Run the Application file
+6. May need to install Visual C++ Redistributable   
