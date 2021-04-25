@@ -6,7 +6,7 @@ The familiar game of Rock, Paper, Scissors is played like this: at the same time
 Reference:
 https://en.wikipedia.org/wiki/Rock_paper_scissors
 
-Requirement: 
+Requirement for run as excutable file or .exe file or application :
 1. add Python to PATH variable in Windows
    Please follow the liks below: 
    https://datatofish.com/add-python-to-windows-path/
