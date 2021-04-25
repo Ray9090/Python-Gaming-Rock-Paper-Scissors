@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Rock_paper_scissors
 
 Requirement for run as excutable file or .exe file or application :
 1. Download latest python and install it
-2. add Python to PATH variable in Windows
+2. add Python to PATH variable in Windows.;
    An easy way to add Python to the path is by downloading a recent version of Python or 
    Please follow the liks below: 
    https://datatofish.com/add-python-to-windows-path/
